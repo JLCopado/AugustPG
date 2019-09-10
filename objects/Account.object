@@ -78,6 +78,7 @@
     </fields>
     <fields>
         <fullName>Account_Vertical__c</fullName>
+        <description>null</description>
         <externalId>false</externalId>
         <label>Account Vertical</label>
         <required>false</required>
